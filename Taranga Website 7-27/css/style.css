@@ -1,0 +1,39 @@
+.taranga-nav{
+	background-color: red;
+}
+.taranga-nav ul{
+	padding-top: 20px;
+	float: right;
+	width: 40%;
+}
+.taranga-nav p{
+	font-size: 32px;
+	float: left;
+	padding-top: 20px;
+}
+.taranga-nav li{
+	list-style: none;
+	float: left;
+	font-size: 18px;
+	color: green;
+	padding-top: 10px;
+}
+.taranga-nav li a:hover{
+	color:#644;
+}
+.taranga-nav li a{
+padding: 0,8px;
+text-decoration: none;
+color: #694;
+padding-left: 18px;
+}
+
+.taranga-nav p a{
+	text-decoration: none;
+	color: #000;
+}
+
+.taranga-nav img{
+	float: left;
+	clear: right;
+}
